@@ -1,25 +1,25 @@
 # wertform.github.io
 
-Materials for the [*wertform*](https://github.com/wertform) project of bilingual presentation and collective translation of works of Marx and German works of exegesis.  
+Materials for the [*wertform*](https://github.com/wertform) project of parallel bilingual presentation and collective translation of works of Marx and German works of exegesis.  
 
 Errors and emendations can be pointed out at the corresponding github repository.
 
 Please join the project to edit existing text and add new texts. 
 
-Ideally, such a site would also make available bilingual versions of existing translations such as those found on sites like marxists.org.  
+Ideally, such a site would also make available parallel German-English versions of existing translations such as those found on sites like marxists.org.  
 
 # texts
 
 - Marx, Capital, first edition 1867
 
 - - [Chapter 1, section 1, The Commodity (later Part I, chapter 1)](texts/capital.html) Provisional project translation.
-- - [standard translation, (John) Albert Dragstedt](texts/dragstedt.html) 
+- - [parallel text of the standard translation, (John) Albert Dragstedt](texts/dragstedt.html) 
 
 - - - (Repository [here](https://github.com/wertform/capital).)
 
 # glossary
 
-Part of the hope of the project, in addition to bilingual representation, is to place the fundamental *wissenschaftlich* demand on *new* Marx-translation, of *commitment to a glossary*. A partial representation of the glossary used for Capital first edition ch. 1 is, for the moment, printed below. The reader of English should know, of a word on the right (and associated forms) that it is translating German on the left. Even if the reader knows no German, without such a glossary-commitment she cannot be confident she is not missing rational relations between sentences and across the text. 
+One hope of the project, in addition to parallel representation, is to place the fundamental *wissenschaftlich* demand on *new* Marx-translation, of *commitment to a glossary*. A partial representation of the glossary used for Capital first edition ch. 1 is, for the moment, printed below. The reader of English should know, of a word on the right (and associated forms) that it is translating German on the left. Even if the reader knows no German, without such a glossary-commitment she cannot be confident she is not missing rational relations between sentences and across the text. 
 
 Thus the decisions made in the glossary are less important than the articulation of the glossary itself. An ideal internet arrangement would permit the student to replace these with German expressions as she learns them, and have done with the always difficult choices. Though disputes about new translations of Marx are often about the choices on the right - thus far never in any case stated in a glossary - but infinitely more important is the decision what should go on the left. 
 
