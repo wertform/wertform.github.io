@@ -13,7 +13,7 @@ Ideally, such a site would also make available bilingual versions of existing tr
 - Marx, Capital, first edition 1867
 
 - - [Chapter 1, section 1, The Commodity (later Part I, chapter 1)](texts/capital.html) Provisional project translation.
-- - [standard translation, (John) Alfred Dragstedt](texts/dragstedt.html) 
+- - [standard translation, (John) Albert Dragstedt](texts/dragstedt.html) 
 
 - - - (Repository [here](https://github.com/wertform/capital).)
 
