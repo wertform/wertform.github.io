@@ -25,9 +25,9 @@ of commitment to a glossary.  A partial representation of the glossary
 used above is, for the moment, printed below:
 
 
-------------------------------------------------------------------
-german              english
-------------------- ----------------------------------------------
+------------------------------------------------------------------------------------------
+german              english 
+------------------  ----------------------------------------------------------------------
 allgemein           universal (see einzeln, besondere)
 anderer             other (see verscheiden, veränderen)
 Art                 type
@@ -87,5 +87,5 @@ Werth               value
 wirklich            actual (see real)
 wirken              to act (upon)
 zwieschlächtig      double-edged (as sword)
-------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
