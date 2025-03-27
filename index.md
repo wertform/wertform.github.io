@@ -13,7 +13,7 @@ Ideally, such a site would also make available parallel German-English versions 
 - Marx, Capital, first edition 1867
 
 - - [Chapter 1, section 1, The Commodity (later Part I, chapter 1)](texts/capital.html) Provisional project translation.
-- - [parallel text of the standard translation, (John) Albert Dragstedt](texts/dragstedt.html) 
+- - [parallel text of the standard translation, (John) Albert Dragstedt](texts/dragstedt.html) See, e.g. [the version on marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/commodity.htm)
 
 - - - (Repository [here](https://github.com/wertform/capital).)
 
