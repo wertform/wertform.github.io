@@ -15,7 +15,9 @@ Ideally, such a site would also make available parallel German-English versions 
 - - [Chapter 1, section 1, The Commodity (later Part I, chapter 1)](texts/capital.html) Provisional project translation.
 - - [parallel text of the standard translation, (John) Albert Dragstedt](texts/dragstedt.html) See, e.g. [the version on marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/commodity.htm)
 
-- - - (Repository [here](https://github.com/wertform/capital).)
+- - - The German of Marx' and Engels' work was helpfully — for our purposes — reduced to pure html on the defunct mlwerke.de site.  It is preserved on this site [here](mlwerke.de/me/default.htm).
+- 
+- - - (The repository of this site is [here](https://github.com/wertform/capital).)
 
 # glossary
 
@@ -29,62 +31,79 @@ It is unlikely that a single such glossary could operate across works and period
 
 | german | english |
 |:---|:---|
-| allgemein | universal (see einzeln, besondere) |
+| allgemein | universal (see einzeln, besondere), reading ‘logically’ |
 | anderer | other (see verscheiden, veränderen) |
-| Art | type |
+| Art | type (often a bit forcibly) |
 | Ausdruck | expression |
 | ausdrucken | to express |
 | Bedürfnis | need |
 | befriedigen | to meet (needs, demands, etc) |
-| besondere | particular (see einzeln, allgemein) |
+| besondere | particular (see einzeln, allgemein), reading ‘logically’ |
 | bestimmen | to determine |
 | Bestimmung | determination |
-| darstellen | to present |
-| Darstellung | presentation |
+| Bestimmtheit | determinacy |
+| darstellen | to present (see vorstellen), often artificially |
+| Darstellung | presentation (as with darstellen, often forcibly insisting) |
 | Ding | thing (see Sache, Gegenstand) |
 | direkt | direct (see unmittelbar) |
-| Einheit | unity (no attempt are made to detect the rare sense ‘unit’ ) |
-| einzeln | single, singular (see individuell) |
+| Einheit | unity (reading ‘logically’, forcing even on rare possible ‘unit’) |
+| einzeln | single, singular (see individuell), logicizing |
 | erscheinen | to appear (see scheinen) |
 | Erscheinung | appearance (see Schein) |
-| Gallerte | gelatin, gelatinization |
+| Formwechsel | form-change (see Stellenwechsel) |
+| Gallerte | gelatinization (to maintain reference to the prior fluid, Unrühe, state) |
 | Gebrauch | use (see nützlich) |
 | Gebrauchswert | use value |
 | Gegenstand | object (see Sache, Ding) |
 | gelten | to figure (in preference to ‘count’) |
 | Gleichung | equality (in preference to ‘equation’) |
 | gleichsetzen | set equal (in preference to ‘equate’) |
+| Gliederung | articulation |
 | Grösse | magnitude (see Qualität, quantum) |
+| hervorbringen | to bring forth |
+| ideell | ideal (see coupled category reell) |
 | individuell | individual (see einzeln) |
-| Lebensmittel | means of life (see Produktionsmittel) |
+| Kreislauf | circuit |
+| Lebensmittel | means of life (see coupled category Produktionsmittel) |
+| Metamorphose | metamorphosis |
 | nützlich | useful (see Gebrauch) |
 | Quantität | quantity (see Grösse, quantum) |
 | quantum, quanta | quantum, quanta |
-| real | real (see wirklich) |
 | realisieren | to realize |
-| reflektieren | to reflect (see mirror, spiegeln, widerspiegeln) |
-| Produktionsmittel | means of production (see Lebensmittel) |
+| reell | real (see coupled category ideell) |
+| reflektieren | to reflect (see spiegeln, widerspiegeln) |
+| Produktionsmittel | means of production (see coupled category Lebensmittel) |
+| Rückverwandlung | reconversion (return-transformation; reversal of prior transformation) |
 | Sache | thing\_ (see Ding, Gegenstand) |
 | sachlich | thingly\_ |
 | scheinen | to seem (see erscheinen) |
 | Schein | semblance (see Erscheinung) |
-| setzen | to set (in preference to posit, put, place, etc.; τίθημι) |
-| spiegeln | to mirror (see reflect) |
-| Substanz | substance |
+| setzen | to set (τίθημι ; in preference to posit, put, place, etc.) |
+| spiegeln | to mirror (see reflektieren) |
+| Stellenwechsel | place-change |
+| Stoffwechsel | metabolism, or stuff-change in systematic contrast |
+| Substanz | substance (see Einheit) |
 | unmittelbar | immediate (see direkt) |
+| Umlauf | course (in Geldumlauf, ‘cours de la monnai’) |
 | Unterschied | distinction (see verschieden, Verscheidenheit) |
 | unterscheidbar | distinguishable |
 | unterscheiden | to distinguish |
 | veränderen | to alter (see anderer, wechseln) |
+| Verausgabung | expenditure |
 | vermitteln | to mediate |
 | verschieden | different (see unterschiedbar) |
 | Verschiedenheit | difference (see Unterschied) |
+| Verständnis | understanding |
+| verstehen | to understand (see Verständnis) |
+| Verwandlung | transformation |
+| verwirklichen | to actualize (see Verwirklichung) |
 | Verwirklichung | actualization (see realisieren, wirklich, real) |
 | vorstellen | represent (see darstellen) |
 | Vorstellung | representation (see Darstellung) |
 | Warenkunde | merceology |
 | wechseln | to change (see veränderen) |
 | Werth | value |
-| wirklich | actual (see real) |
+| wirklich | actual (see real, verwirklichen, realisieren) |
+| Wirklichkeit | actuality |
 | wirken | to act (upon) |
-| zwieschlächtig | double-edged (as sword) |
+| zwieschlächtig | double-edged (as sword, where it is used; perhaps bivalent, ambivalent) |
