@@ -15,9 +15,9 @@ Ideally, such a site would also make available parallel German-English versions 
 - - [Chapter 1, section 1, The Commodity (later Part I, chapter 1)](texts/capital.html) Provisional project translation.
 - - [parallel text of the standard translation, (John) Albert Dragstedt](texts/dragstedt.html) See, e.g. [the version on marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/commodity.htm)
 
-- - - The German of Marx' and Engels' work was helpfully — for our purposes — reduced to pure html on the defunct mlwerke.de site.  It is preserved on this site [here](mlwerke.de/me/default.htm).
-- 
-- - - (The repository of this site is [here](https://github.com/wertform/capital).)
+- The German of Marx' and Engels' work was helpfully — for our purposes — reduced to pure html on the defunct mlwerke.de site.  It is preserved on this site [here](mlwerke.de/me/default.htm).
+
+- The repository of the present site is [here](https://github.com/wertform/capital).
 
 # glossary
 
